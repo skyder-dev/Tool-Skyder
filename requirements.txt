@@ -1,2 +1,2 @@
-aiohttp==3.8.1
-discord==1.7.3
+aiohttp
+discord
